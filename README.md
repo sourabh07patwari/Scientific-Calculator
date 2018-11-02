@@ -21,8 +21,8 @@ This system implements flow layout and uses encapsulation to hide the data membe
 <img width="1170" alt="screen shot 2018-03-06 at 12 48 11 pm" src="https://user-images.githubusercontent.com/37196308/47888097-d08b7700-ddff-11e8-9341-faf44145fa74.png">
 
 
-## 5 Graph plotted for y=x^3+x+3
+## 5. Graph plotted for y=x^3+x+3
 <img width="1170" alt="screen shot 2018-03-06 at 12 39 29 pm" src="https://user-images.githubusercontent.com/37196308/47888119-e13bed00-ddff-11e8-97d2-39d916dbfe04.png">
 
-## 6 Graph plotted for y=x^2
+## 6. Graph plotted for y=x^2
 <img width="1170" alt="screen shot 2018-03-06 at 12 38 14 pm" src="https://user-images.githubusercontent.com/37196308/47888129-e6993780-ddff-11e8-89c0-e4057aa9937b.png">
